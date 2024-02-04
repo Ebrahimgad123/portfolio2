@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio2/static/css/main.b9213c56.css",
+    "main.js": "/portfolio2/static/js/main.8d464547.js",
+    "static/media/background.jpg": "/portfolio2/static/media/background.61920bc1d4766cb47a8d.jpg",
+    "static/media/blue professional modern CV resume.pdf": "/portfolio2/static/media/blue professional modern CV resume.10ffbe822da8c5244b01.pdf",
+    "static/media/picForMe.jpg": "/portfolio2/static/media/picForMe.35ba88536961a6c160af.jpg",
+    "static/media/pin.jpg": "/portfolio2/static/media/pin.de1bf471de3697f30e48.jpg",
+    "index.html": "/portfolio2/index.html",
+    "main.b9213c56.css.map": "/portfolio2/static/css/main.b9213c56.css.map",
+    "main.8d464547.js.map": "/portfolio2/static/js/main.8d464547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9213c56.css",
+    "static/js/main.8d464547.js"
+  ]
+}
