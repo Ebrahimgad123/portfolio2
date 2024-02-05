@@ -16,11 +16,11 @@ const Projects = () => {
   };
 
   return (
-    <div className='container' style={{ backgroundColor: 'black', marginLeft: '30px', textAlign: 'center' }}>
+    <div className='container' style={{ backgroundColor: 'black', marginLeft: '30px', textAlign: 'center',marginTop:'-40px' }}>
       <h1 style={{ color: '#ff6f61', textAlign: 'center' }}>Projects</h1>
 
        
-          <Card className='custom-card' style={{marginBottom:'30px'}}>
+          <Card className='custom-card' style={{marginBottom:'20px'}}>
             <div className='card-image'>
               <Card.Img variant='top' src={project1.image} style={{ height: 'auto', maxWidth: '100%', borderRadius: '5%' }} />
               <div className='hover-overlay'></div>
@@ -33,16 +33,16 @@ const Projects = () => {
           </Card>
         
        
-          <Card className='custom-card'>
+          <Card className='custom-card'style={{marginBottom:'20px'}}>
             <div className='card-image'>
               <Card.Img variant='top' src={project2.image} style={{ height: 'auto', maxWidth: '100%', borderRadius: '5%' }} />
               <div className='hover-overlay'></div>
             </div>
             <Card.Body style={{ backgroundColor: 'black' }}>
-              <Card.Title style={{ color: 'white', marginBottom: '20px' }}>{project2.title}</Card.Title>
+              <Card.Title style={{ color: 'white', marginBottom: '20px' }}></Card.Title>
               <Card.Text style={{ color: 'white' }}>{project2.description}</Card.Text>
             </Card.Body>
-            <a href={project2.demoLink} style={{ backgroundColor: 'red', padding: '10px 20px', border: 'none', color: 'white', borderRadius: '20px', textDecoration: 'none', position: 'absolute', bottom: '100px', left: '50%', transform: 'translateX(-50%)' }}>View Demo</a>
+            <a href={project2.demoLink} style={{ backgroundColor: 'red', padding: '10px 20px', border: 'none', color: 'white', borderRadius: '20px', textDecoration: 'none', position: 'absolute', bottom: '100px', left: '50%', transform: 'translateX(-50%)',marginBottom:'-40px'}}>View Demo</a>
           </Card>
       
     

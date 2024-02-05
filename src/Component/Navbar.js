@@ -25,12 +25,12 @@ const Navbar = () => {
   return (
     <nav style={navStyle}>
       <div style={responsiveNavStyle}>
-        <Link to="/" style={{ textDecoration: 'none', color: '#fff', fontWeight: 'bold' }}>
+        <Link to="portfolio2/" style={{ textDecoration: 'none', color: '#fff', fontWeight: 'bold' }}>
          <h2>Ibrahim</h2> 
         </Link>
         <ul style={{ listStyle: 'none', display: 'flex', padding: 0 }}>
           <li>
-            <NavLink as={Link} to="/" style={linkStyle}>
+            <NavLink as={Link} to="portfolio2/" style={linkStyle}>
               Home
             </NavLink>
           </li>
