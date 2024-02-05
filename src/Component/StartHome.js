@@ -28,7 +28,7 @@ function Start() {
     textDecoration: 'none', // Remove the default anchor underline
     color: 'white', // Set text color to white
     display: 'inline-block',
-    marginTop:'250px'
+    marginTop:'0px'
   };
 
   return (
