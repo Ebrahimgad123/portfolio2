@@ -42,7 +42,7 @@ const Projects = () => {
               <Card.Title style={{ color: 'white', marginBottom: '20px' }}></Card.Title>
               <Card.Text style={{ color: 'white' }}>{project2.description}</Card.Text>
             </Card.Body>
-            <a href={project2.demoLink} style={{ backgroundColor: 'red', padding: '10px 20px', border: 'none', color: 'white', borderRadius: '20px', textDecoration: 'none', position: 'absolute', bottom: '100px', left: '50%', transform: 'translateX(-50%)',marginBottom:'-40px'}}>View Demo</a>
+            <a href={project2.demoLink} style={{ backgroundColor: 'red', padding: '10px 20px', border: 'none', color: 'white', borderRadius: '20px', textDecoration: 'none', position: 'absolute', bottom: '100px', left: '50%', transform: 'translateX(-50%)',marginBottom:'-60px'}}>View Demo</a>
           </Card>
       
     
