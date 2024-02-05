@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio2/static/css/main.b9213c56.css",
-    "main.js": "/portfolio2/static/js/main.b5d78996.js",
+    "main.js": "/portfolio2/static/js/main.d5890458.js",
     "static/media/background.jpg": "/portfolio2/static/media/background.61920bc1d4766cb47a8d.jpg",
     "static/media/blue professional modern CV resume.pdf": "/portfolio2/static/media/blue professional modern CV resume.10ffbe822da8c5244b01.pdf",
     "static/media/picForMe.jpg": "/portfolio2/static/media/picForMe.35ba88536961a6c160af.jpg",
     "static/media/pin.jpg": "/portfolio2/static/media/pin.de1bf471de3697f30e48.jpg",
     "index.html": "/portfolio2/index.html",
     "main.b9213c56.css.map": "/portfolio2/static/css/main.b9213c56.css.map",
-    "main.b5d78996.js.map": "/portfolio2/static/js/main.b5d78996.js.map"
+    "main.d5890458.js.map": "/portfolio2/static/js/main.d5890458.js.map"
   },
   "entrypoints": [
     "static/css/main.b9213c56.css",
-    "static/js/main.b5d78996.js"
+    "static/js/main.d5890458.js"
   ]
 }
